@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5278","Проверка создания рецепта и отображения его карточки","tests","Sun Aug 03 17:09:42 EEST 2025","passed","Sun Aug 03 17:09:47 EEST 2025","TestCreateReceipt","test_create_receipt","",""
+"","2083","Проверка видимости формы авторизации после создания аккаунта","tests","Sun Aug 03 17:09:27 EEST 2025","passed","Sun Aug 03 17:09:29 EEST 2025","TestCreateAccount","test_create_account","",""
+"","4745","Проверка создания рецепта","tests","Sun Aug 03 17:09:33 EEST 2025","passed","Sun Aug 03 17:09:38 EEST 2025","TestCreateReceipt","test_create_receipt","",""
+"","3142","Проверка видимости кнопки Выход после авторизации","tests","Sun Aug 03 17:09:13 EEST 2025","passed","Sun Aug 03 17:09:17 EEST 2025","TestAuthorization","test_authorization","",""
+"","2849","Проверка создания аккаунта","tests","Sun Aug 03 17:09:20 EEST 2025","passed","Sun Aug 03 17:09:23 EEST 2025","TestCreateAccount","test_create_account","",""
+"","3441","Проверка авторизации","tests","Sun Aug 03 17:09:05 EEST 2025","passed","Sun Aug 03 17:09:09 EEST 2025","TestAuthorization","test_authorization","",""
